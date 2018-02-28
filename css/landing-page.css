@@ -14,7 +14,7 @@ h6 {
 
 header.masthead {
   position: relative;
-  background-color: transparent;
+  background-color: red;
   background: url("https://images.unsplash.com/photo-1456953180671-730de08edaa7?ixlib=rb-0.3.5&s=cf1beba74f48d07973b89c261a94d5ad&auto=format&fit=crop&w=2702&q=80") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -26,7 +26,7 @@ header.masthead {
 
 header.masthead .overlay {
   position: absolute;
-  background-color: transparent;
+  background-color: tr;
   height: 100%;
   width: 100%;
   top: 0;

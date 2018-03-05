@@ -26,12 +26,12 @@ header.masthead {
 
 header.masthead .overlay {
   position: absolute;
-  background-color: tr;
+  background-color: black;
   height: 100%;
   width: 100%;
   top: 0;
   left: 0;
-  opacity: 0.3;
+  opacity: 0.4;
 }
 
 header.masthead h1 {
